@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976041081091",
+    "project_id": "new-life-plus-health",
+    "storage_bucket": "new-life-plus-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976041081091:android:e03aa54f64e161245e9136",
+        "android_client_info": {
+          "package_name": "com.example.health_care_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976041081091-1e5s31bl8kjpcahefcateh4g3d4t8tb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2D1Ec9QTN3nHErcSsd42uq-NtxmHr4Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976041081091-1e5s31bl8kjpcahefcateh4g3d4t8tb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
